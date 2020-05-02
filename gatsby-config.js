@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Global Digital Divide`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Carew's Crew`,
+      summary: `who studies Spring 2020`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    description: `A recap of Spring 2020 Global Digital Divide`,
+    siteUrl: `https://globaldigitaldivide.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `thisverynate`,
     },
   },
   plugins: [
