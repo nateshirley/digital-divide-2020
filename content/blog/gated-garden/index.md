@@ -1,9 +1,7 @@
 ﻿---
 title: "Gated Garden: India is Cultivating a Crop of Homegrown Digital Payment Companies to Challenge American Conglomerates on its Own Soil"
 date: "2020-05-03T22:40:32.169Z"
-description: "India is Cultivating a Crop of Homegrown
-Digital Payment Companies to Challenge American
-Conglomerates on its Own Soil"
+description: "India’s government policy has given a boost to a new breed of local players in the digital finance space such as Paytm and RuPay, much to the dismay of American heavyweights."
 ---
 
 <small> _By: Elise Hummel, Anjali Khanna, Rishi Pochiraju, Raghav Savara, and Yonna Xhixho_ </small>

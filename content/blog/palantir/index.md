@@ -1,7 +1,7 @@
 ---
-title: "Palantir: Inflating the Digital Divide?"
+title: "Palantir: Inflating the Digital Divide"
 date: "2020-05-03T22:40:32.169Z"
-description: As Palantir brings attention to the growing technologcial tension between the US and China, it puts pressure on the West to remain at center stage.
+description: Palantir has brought attention to the growing technologcial tension between the US and China. Do we have reason to fear that Western tech powers are falling behind?
 ---
 
 ![Palantir Building](./office.png)
@@ -70,9 +70,8 @@ Palantir’s view is that Europe’s laws are too restrictive and are meant to p
 
 The US government spends over $554B through contract, as of fiscal year 2018. In fact, the government spends “around 40% of total discretionary spending” on contracting.<sup>24</sup> In FY 2018, the top 100 government contractors, on the federal level, had contracts worth $115 billion.<sup>25</sup> In 2002, the top 100 had contracts worth just \$34B.<sup>26</sup> Over these 16 years, the compound annual growth rate (CAGR) is strong at 8%. Palantir is a part of this trend; in fact, their revenue from the government has increased at a CAGR of 43.4% for the past 10 years.<sup>27</sup> The graph below illustrates this pattern.
 
-Figure 1: Palantir’s US Contracts: dollar amount and number of contracts per year
-
-GRAPH GOES HERERERERE
+![Palantir Contracts](./contracts.png)
+<small>Figure 1: Palantir’s US Contracts: dollar amount and number of contracts per year</small>
 
 ### How Contractors Operate within Governments
 

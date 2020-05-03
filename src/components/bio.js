@@ -40,7 +40,7 @@ const Bio = () => {
     <div
       style={{
         display: `flex`,
-        marginBottom: rhythm(2.5),
+        marginBottom: rhythm(0.5),
       }}
     >
       <Image
@@ -57,8 +57,10 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author.name}</strong> {author.summary}
-        {` `}
+        Over the past four months, we studied the most pressing issues regarding
+        the future of global technology. This site represents our attempt to
+        dissect and contribute to the current conversation around some of these
+        topics.
       </p>
     </div>
   )

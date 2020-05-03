@@ -11,9 +11,10 @@ const Layout = ({ location, title, children }) => {
     header = (
       <h1
         style={{
-          ...scale(1.5),
+          ...scale(1.2),
           marginBottom: rhythm(1.5),
           marginTop: 0,
+          fontFamily: ["IBM Plex Sans", `serif`],
         }}
       >
         <Link
@@ -31,7 +32,7 @@ const Layout = ({ location, title, children }) => {
     header = (
       <h3
         style={{
-          fontFamily: `Montserrat, sans-serif`,
+          fontFamily: ["IBM Plex Sans", `serif`],
           marginTop: 0,
         }}
       >
@@ -58,7 +59,9 @@ const Layout = ({ location, title, children }) => {
     >
       <header>{header}</header>
       <main>{children}</main>
-      <footer>© {new Date().getFullYear()}, Carew's Crew</footer>
+      <footer>
+        © Spring 2020, Global Digital Divide: Big Tech in a Multipolar World
+      </footer>
     </div>
   )
 }
