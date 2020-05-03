@@ -4,6 +4,8 @@ date: "2020-05-03T22:40:32.169Z"
 description: As Palantir brings attention to the growing technologcial tension between the US and China, it puts pressure on the West to remain at center stage.
 ---
 
+![Palantir Building](./office.png)
+
 ## Introduction
 
 After Peter Thiel’s payment-processing company, PayPal, was acquired by eBay for \$1.5B in 2002, he began hunting for new problems to solve. He eventually settled on national security. Thiel believed PayPal’s fraud detection algorithms could be used to prevent terrorist attacks.<sup>1</sup> He gathered several engineers, provided them with resources, and began looking for outside investors in the new company: Palantir.

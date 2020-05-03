@@ -11,7 +11,7 @@ Wordpress2016.overrideThemeStyles = () => {
 }
 
 StAnnes.overrideThemeStyles = () => ({
-  a: { color: "navy" },
+  a: { color: "#346bdf" },
 })
 
 delete Wordpress2016.googleFonts
