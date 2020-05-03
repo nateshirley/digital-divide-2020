@@ -1,7 +1,7 @@
 ---
 title: "Palantir: Inflating the Digital Divide"
 date: "2020-05-03T22:40:32.169Z"
-description: Palantir has brought attention to the growing technologcial tension between the US and China. Do we have reason to fear that Western tech powers are falling behind?
+description: Palantir has attracted controversy for its supposedly effective arsenal of intelligence and surveillance tools. In response, the company has pointed to the growing technologcial tension between the US and China. Do we have reason to fear that Western tech powers are falling behind?
 ---
 
 ![Palantir Building](./office.png)

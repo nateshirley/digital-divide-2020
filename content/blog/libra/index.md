@@ -1,7 +1,7 @@
 ﻿---
-title: "Libra: The Future of Digital Currency in the West"
+title: "Libra: The Future of Digital Currency in the West?"
 date: "2020-05-03T22:40:32.169Z"
-description: "Will digital currencies dominate the future, or will they ultimately prove risky and impractical forms of money?"
+description: "Libra aspired to be a transnational currency, bank the unbanked, and to pioneer the widespread use of digital currency in the Western world. Yet the new project has largely fallen flat due to regulatory concerns. Even so, the Libra project has raised some important questions that central bankers and legislators must now consider."
 ---
 
 <small>_By: Nathan Berry, Joe Challis, Grant Chamberlain, and Matt DePillis_</small>

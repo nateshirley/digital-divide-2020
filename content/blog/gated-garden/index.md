@@ -20,6 +20,7 @@ Despite some heavy-handed international pushback, India’s moves to challenge f
 By creating successful players of its own, India fosters an ecosystem where consumers can use diverse and unique payment options at varying costs, merchants can efficiently capture revenues and track customer trends, and the Indian government can protect valuable data from the arms of Big Tech while harnessing tax revenue to support critical infrastructure and assist in greater financial inclusion for all.
 
 **India’s homegrown strategy**
+
 Over the last decade, India has launched several initiatives to create a more favorable [ecosystem for entrepreneurship](https://www.theweek.in/news/biz-tech/2019/11/05/india-retains-position-as-worlds-third-largest-startup-hub-nasscom.html) — with a long term goal of bolstering the economy and making India more competitive on the world stage. This past January, Prime Minister Nardendra Modi [reinforced his 2025 vision for India to be a \$5 trillion economy](https://economictimes.indiatimes.com/news/economy/policy/pm-modi-calls-for-focussed-effort-to-make-india-5-trillion-economy/articleshow/73173786.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst) by leveraging India’s unique strengths to improve prospects for homegrown champions.
 
 Initially, the policies focused on developing infrastructure to support and encourage digital payments, which led to the rise of domestic firms. However, these domestic firms were far behind international incumbents, and the government implemented further regulations to equalize the space.
@@ -66,7 +67,7 @@ With at least [40% of share ownership](https://economictimes.indiatimes.com/smal
 
 A homegrown champion strategy for India benefits its citizens via exposure to multiple options. But a ‘consumers-first’ mentality isn’t necessarily the reason for the Indian government’s recent interest in the payments space.
 
-**India First**
+**India first**
 
 Visa and Mastercard have such an extensive stronghold on payments globally that it begs the question regarding India: why poke the bear (or bears)? The two companies operate in over 200 countries and have been [successful in other emerging markets](https://www.fool.com/investing/2019/05/07/mastercard-rises-on-international-success.aspx). Why does India want to compete in the first place, and why is it the government’s initiative and not the private sector’s?
 
@@ -114,7 +115,7 @@ In fact, these UPI-based applications increasingly serve as primary competitors 
 
 Increased investment and competition in the payments industry from India’s gated garden continues to benefit the average Indian consumer. Payment providers offer lucrative promotional offers for specific use-cases to encourage the adoption of their service. Indian consumers are spoilt for choice and often switch between providers to leverage the best deal.
 
-This has driven significant positive externalities, including improved financial literacy for Indian citizens. Such strides in consumer education are crucial for a country where [76% of the population — roughly 1 billion people — is not financially literate](https://www.spratings.com/documents/20184/86957/SPRS_India-FinLitSurvey_Dec2015/cd01818e-48ca-469a-89e5-0a2a15a482fc).
+This has driven significant positive externalities, including improved financial literacy for Indian citizens. Such strides in consumer education are crucial for a country where [76% of the population — roughly 1 billion people — are not financially literate](https://www.spratings.com/documents/20184/86957/SPRS_India-FinLitSurvey_Dec2015/cd01818e-48ca-469a-89e5-0a2a15a482fc).
 
 Merchants like Mr. Garg are poised to benefit from further penetration of digital payment platforms across the country. “We’re able to check out customers faster to free up store space which lets me process more customers at a time,” he says. Mr. Garg’s cookware shop has seen increased efficiency through digitally-enabled business solutions and smoother payment processes for customers.
 
