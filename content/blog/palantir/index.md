@@ -6,8 +6,6 @@ description: Palantir has attracted controversy for its supposedly effective ars
 
 ![Palantir Building](./office.png)
 
-## Introduction
-
 After Peter Thiel’s payment-processing company, PayPal, was acquired by eBay for \$1.5B in 2002, he began hunting for new problems to solve. He eventually settled on national security. Thiel believed PayPal’s fraud detection algorithms could be used to prevent terrorist attacks.<sup>1</sup> He gathered several engineers, provided them with resources, and began looking for outside investors in the new company: Palantir.
 
 Today, Palantir is one of the most valuable private companies in the world, providing data analytics tools to national security agencies in the US and UK. In search of growth, Palantir has also taken on private clients and non-federal government agencies. Its private business has churned through big names such as Coca-Cola, Home Depot, and American Express.<sup>2</sup> As Palantir expanded, many began to question whether anti-terror tools should be applied so broadly. The company continues to attract headlines such as [Peter Thiel’s Creepy Tech Firm Is Helping The Government Track Coronavirus](https://www.vanityfair.com/news/2020/04/peter-thiels-creepy-tech-firm-is-helping-the-government-track-coronavirus), [Palantir Spreads Its Tentacles Throughout Europe](https://www.bloomberg.com/news/articles/2017-02-24/peter-thiel-s-palantir-spreads-its-tentacles-throughout-europe), and [Palantir Provides the Engine for Donald Trump’s Deportation Machine](https://theintercept.com/2017/03/02/palantir-provides-the-engine-for-donald-trumps-deportation-machine/).
@@ -155,6 +153,8 @@ Palantir is one company. Yet, inside its secretive walls, the company embodies s
 And of course, the crux of the issue is whether national security or individual privacy takes precedence. Palantir was started in the wake of 9/11, when almost everyone agreed that, if any technology could have prevented the tragedy, that technology should have been used. Public sentiment fluctuates with time, but it is clear that the trend is towards less privacy, more technology. As new technologies have come along and promised greater comfort, convenience, and security, most have chosen to sacrifice their personal data for the sake of adoption. As long as this continues, elected leaders and experts must work with companies to ensure technological progress remains inside the bounds of the law. As citizens, we must encourage leaders to continually re-evaluate those legal boundaries and determine if they should be moved.
 
 Palantir and its bombastic founder Peter Thiel have also shaped US defense technology by putting a private army on the task of spying for the world’s top superpower. As Palantir looks to expand beyond the US to American allies in Europe, the company’s track record raises concerns over how it could influence global surveillance. These concerns will only metastasize in the coming years as innovators in the East and the West discover military applications for powerful new technologies. In response, European authorities need to understand that exponential increases in the power of technology are on the horizon. Ignoring innovation will lead to ruin, and the West must convince all of its best minds to work together to create a future that preserves the separation of power, an open society, and civil liberties.
+
+_<small>Brought to you by: Bilbo, Boromir, Aragorn, Legolas, and Arwen. Thanks for reading. </small>_
 
 ## Endnotes
 

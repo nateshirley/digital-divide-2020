@@ -4,8 +4,6 @@ date: "2020-05-03T22:40:32.169Z"
 description: "India’s government policy has given a boost to a new breed of local players in the digital finance space such as Paytm and RuPay, much to the dismay of American heavyweights."
 ---
 
-<small> _By: Elise Hummel, Anjali Khanna, Rishi Pochiraju, Raghav Savara, and Yonna Xhixho_ </small>
-
 ![Market](./photo1.png)
 <small>_Customers browse through a string of merchants of mom-and pop stores in Delhi._ </small>
 
@@ -194,3 +192,5 @@ Whether Visa and Mastercard are successful in India or not, there will be succes
 And if the homegrown champions that India’s government is backing become the reason for digital payment success, the bragging rights will belong to Mr. Modi for cultivating companies that offer citizens the best product and that managed to outsmart Visa and Mastercard.
 
 Either way, it’s a win for India.
+
+_<small>By: Carew's Crew</small>_

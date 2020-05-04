@@ -175,6 +175,8 @@ Governments must also pass data protection bills, taking lead from Kenya’s 201
 
 After all, connectivity is a human right. Right, Zuck?
 
+_<small>By: Advocates for Accessibility</small>_
+
 …………
 
 _Acknowledgements: we would like to thank the following individuals for agreeing to speak with us as we conducted our research and formulated our thoughts on this topic._

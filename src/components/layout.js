@@ -65,7 +65,8 @@ const Layout = ({ location, title, children }) => {
         }}
       >
         <small>
-          © Spring 2020, Global Digital Divide: Big Tech in a Multipolar World
+          © Spring 2020, Global Digital Divide: Big Tech in a Multipolar World @
+          The University of Virginia
         </small>
       </footer>
     </div>
