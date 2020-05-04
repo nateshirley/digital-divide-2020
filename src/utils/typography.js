@@ -12,6 +12,7 @@ Wordpress2016.overrideThemeStyles = () => {
 
 StAnnes.overrideThemeStyles = () => ({
   a: { color: "#346bdf" },
+  li: { marginBottom: "0px" },
 })
 
 delete Wordpress2016.googleFonts

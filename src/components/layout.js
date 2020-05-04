@@ -59,8 +59,14 @@ const Layout = ({ location, title, children }) => {
     >
       <header>{header}</header>
       <main>{children}</main>
-      <footer>
-        © Spring 2020, Global Digital Divide: Big Tech in a Multipolar World
+      <footer
+        style={{
+          color: "gray",
+        }}
+      >
+        <small>
+          © Spring 2020, Global Digital Divide: Big Tech in a Multipolar World
+        </small>
       </footer>
     </div>
   )

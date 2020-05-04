@@ -3,7 +3,7 @@ module.exports = {
     title: `Global Digital Divide`,
     author: {
       name: `Carew's Crew`,
-      summary: `who studies Spring 2020`,
+      summary: `Spring 2020`,
     },
     description: `A recap of Spring 2020 Global Digital Divide`,
     siteUrl: `https://globaldigitaldivide.com/`,

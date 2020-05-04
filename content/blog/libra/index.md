@@ -1,6 +1,6 @@
 ﻿---
 title: "Libra: The Future of Digital Currency in the West?"
-date: "2020-05-03T22:40:32.169Z"
+date: "2020-05-03T20:40:32.169Z"
 description: "Libra aspired to be a transnational currency, bank the unbanked, and to pioneer the widespread use of digital currency in the Western world. Yet the new project has largely fallen flat due to regulatory concerns. Even so, the Libra project has raised some important questions that central bankers and legislators must now consider."
 ---
 

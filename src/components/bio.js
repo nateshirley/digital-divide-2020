@@ -57,9 +57,9 @@ const Bio = () => {
         }}
       />
       <p>
-        Over the past four months, we studied the most pressing issues regarding
+        We spent the past four months studying the most pressing issues facing
         the future of global technology. This site represents our attempt to
-        dissect and contribute to the current conversation around some of these
+        dissect and contribute to the current conversation around some of those
         topics.
       </p>
     </div>
